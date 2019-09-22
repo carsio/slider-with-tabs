@@ -1,5 +1,9 @@
 # slider
 
+## Result
+
+![](slider.gif)
+
 ## Project setup
 ```
 npm install
