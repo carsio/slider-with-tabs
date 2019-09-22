@@ -1,5 +1,9 @@
 # slider
 
+## Example
+
+The example is inside src / App.vue
+
 ## Result
 
 ![](slider.gif)
